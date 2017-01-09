@@ -15,7 +15,7 @@
     password=Пароль для авторизации на SMTP-сервере
     to_user=Получатель сообщения
 2)Задать набор слов для поиска в вопросах:
-`wordslist.txt` <br/>
+`wordslist.txt` <br/> 
 
 3)Запустить `appStart.java`
 или собрать проект и запустить `java -jar parser_mail_answers.jar` 
